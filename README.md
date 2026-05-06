@@ -7,7 +7,7 @@ This repository contains the deliverable, data, and reference materials necessar
 - Various Materials (data, code, articles, references)
 
 Software and Platform
-Type(s) of software used: GitHub, STL decomposition [1]
+Type(s) of software used: GitHub, STL decomposition
 
 Necessary add-on packages: pandas, matplotlib, seaborn, statsmodels.tsa, scipy, re,
 
