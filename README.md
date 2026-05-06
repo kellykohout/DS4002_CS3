@@ -15,6 +15,7 @@ The platform: Windows/ Mac
 
 Map of Documentation
 
+```text
 DS4002_CS3/
 │
 ├── README.md
@@ -22,13 +23,15 @@ DS4002_CS3/
 │
 ├── variousMaterials/
 │   ├── data/
-|   |   ├── Air_Quality (3).csv
+│   │   ├── Air_Quality (3).csv
 │   │   └── Air_Quality_Cleaned (3).csv
+│   │
 │   ├── scripts/
-|   |   ├── data_cleaning_visualizations.ipynb
+│   │   ├── data_cleaning_visualizations.ipynb
 │   │   └── performed_analysis.ipynb
+│   │
 │   └── sources/
-|       ├── PM2.5 Health Impacts in New York - Pragmatic Environmentalist of New York.pdf
+│       ├── PM2.5 Health Impacts in New York - Pragmatic Environmentalist of New York.pdf
 │       └── motivationArticle.pdf
 │
 ├── Hook.pdf
@@ -37,6 +40,7 @@ DS4002_CS3/
 │
 └── LICENSE
     └── Project usage/license information
+```
 
 ## Instructions for Reproducing Results
 All necessary scripts can be found in /variousMaterials. Run the data_cleaning_visualizations.ipynb and performed_analysis.ipynb found within for the correct output results. 
