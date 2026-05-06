@@ -46,11 +46,14 @@ DS4002_CS3/
 All necessary scripts can be found in /variousMaterials. Run the data_cleaning_visualizations.ipynb and performed_analysis.ipynb found within for the correct output results. 
 
 The top 5 CDs with the highest average PM2.5 are Midtwon, Stuyvesant Town and Turtle Bay, Clinton and Chelsea, Greenwhich Village and Soho, and the Financial District.
+
+## Conclusions Drawn
 The average PM2.5 concentration in the environment seems to be decreasing over time (years)
-Below are our statistics for the STL decomposition and Mann-Whitney Test:
-Trend Slope for High Population: -0.0433 Low Population: -0.0571 p-value: 0.9296
-Seasonal Amplitude: High Population: 3.1578 Low Population: 2.8952 p-value: 0.7239
-Residual RMSE: High Population: 0.8910 Low Population: 0.7011 p-value: 0.2164
+
+Below are some statistics for the STL decomposition and Mann-Whitney Test:
+- Trend Slope for High Population: -0.0433 Low Population: -0.0571 p-value: 0.9296
+- Seasonal Amplitude: High Population: 3.1578 Low Population: 2.8952 p-value: 0.7239
+- Residual RMSE: High Population: 0.8910 Low Population: 0.7011 p-value: 0.2164
 
 ## References
 All references can be found in /variousMaterials
